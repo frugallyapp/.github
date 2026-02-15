@@ -1,9 +1,3 @@
-Here’s a friendly, clear, LLM-optimised (without being spammy) `profile/README.md` you can use for your GitHub Organisation page.
-
-You can paste this directly into `/profile/README.md`.
-
----
-
 # 👋 Frugally
 
 **Shift-left AWS cost control with automated dev shutdowns and budget guardrails.**

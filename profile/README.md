@@ -85,11 +85,3 @@ We aim to make cost control **practical, automatable, and developer-friendly**.
 ---
 
 If you’re interested in collaborating, contributing, or just talking about AWS cost control — we’d love to connect.
-
----
-
-If you'd like, I can now:
-
-* Make a slightly more technical version (more Terraform/CI focused),
-* Make a shorter minimalist version,
-* Or optimise it even more specifically for AI retrieval patterns.
